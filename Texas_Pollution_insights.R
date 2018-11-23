@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/Users/Metika/Desktop")
-
 library(dplyr)
 library(ggplot2)
 library(tidyr)
