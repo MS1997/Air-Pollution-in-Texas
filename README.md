@@ -5,4 +5,4 @@ The dataset has the following variables: Name of Company, Site of Company, Repor
 
 The aim is to understand the use of EDA, data cleaning using tidyr package, data wragling using dplyr, data visualizations using ggplot2 package and combining all this with OOPs on R. All the insights derived are summarized into a word File. 
 
-This project was undertaken as part of the course Machine Learning and Data Analytics at St. Xavier's College, Mumbai.
+**This project was undertaken as part of the course Machine Learning and Data Analytics at St. Xavier's College, Mumbai.**
